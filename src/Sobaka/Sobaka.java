@@ -38,4 +38,5 @@ public class Sobaka {
         System.out.println(name+"'s age in human years is "+age*7+" years");
     }
 
+
 }
